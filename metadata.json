@@ -1,0 +1,8 @@
+{
+  "name": "ER Ultrasound Throughput Tracker",
+  "description": "A high-contrast clinical data collection tool for busy ER Ultrasound throughput auditing and bottleneck tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
